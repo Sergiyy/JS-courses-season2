@@ -17,7 +17,7 @@ let user = {
 
 Object.defineProperty(user, "getInfo", {
   get: function () {
-    return this.name + ' ' + this.age + ' ' + this.occupation;
+    return `${this.name} ${this.age} ${this.occupation}`
   }
 });
 

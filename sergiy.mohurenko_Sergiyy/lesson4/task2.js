@@ -3,7 +3,7 @@
 function Car(brand, fuelTank, ownerFullName) {
     this.brand = brand;
     this.fuelTank = fuelTank;
-
+    
     if (ownerFullName.split(' ').length == 2) {
         this.ownerFullName = ownerFullName;
     } else {

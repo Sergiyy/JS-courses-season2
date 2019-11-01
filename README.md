@@ -1,4 +1,2 @@
-JS courses 2018
 
-В данном репозитории будет размещаться домашняя работа.
-Прислать ее необходимо до следующего занятия.
+Домашнее задание лежит в [Issue Homework 2](https://github.com/MarySaphpir/JS-courses-season2/issues/9)
